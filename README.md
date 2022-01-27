@@ -4,6 +4,8 @@
 - 🌱 Estudando Análise e Desenvolvimento De Sistemas
 - 😄 Pronouns: (ele/dele)
 
+##
+
 <div align="left">
   <a href="https://github.com/LucasVieira1">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LucasVieira1&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
