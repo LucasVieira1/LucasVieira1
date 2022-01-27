@@ -1,8 +1,8 @@
-### Olá, eu sou o Lucas Vieira
+### Olá, eu sou o Lucas Vieira <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
+- 🧠 19 anos
 - 🔭 Desenvolvedor Java
 - 🌱 Estudando Análise e Desenvolvimento De Sistemas
-- 😄 Pronouns: (ele/dele)
 
 ##
 
