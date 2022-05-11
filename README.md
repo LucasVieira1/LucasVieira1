@@ -1,8 +1,8 @@
 ### Olá, eu sou o Lucas Vieira <img height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg">
 
-- 🧠 19 anos
-- 🔭 Desenvolvedor Java Júnior Full Stack (em processo)
-- 🌱 Estudando Análise e Desenvolvimento De Sistemas
+- 🧠 20 anos
+- 🔭 Desenvolvedor Web Java Junior (Java, React)
+- 🌱 Estudando Análise e Desenvolvimento De Sistemas (3/5 semestre)
 
 ##
 
