@@ -2,7 +2,7 @@
 
 - 🧠 20 anos
 - 🔭 Desenvolvedor Web Java Junior (Java, React)
-- 🌱 Estudando Análise e Desenvolvimento De Sistemas (3/5 semestre)
+- 🌱 Estudando Análise e Desenvolvimento De Sistemas (4/5 semestre)
 
 ##
 
